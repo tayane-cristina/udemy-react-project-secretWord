@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+}
+
+body{
+  font-family: monospace;
+  background: linear-gradient(
+    180deg,
+    rgb(64, 194, 166),
+    rgb(34, 150, 150),
+    rgb(13, 78, 80)
+  );
+  color: rgb(7, 7, 7);
+}
+
+ 

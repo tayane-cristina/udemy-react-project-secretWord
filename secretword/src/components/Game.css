@@ -1,0 +1,77 @@
+ h1 {
+  font-size: 2,5rem;
+}
+
+.points span {
+  font-weight: bold;
+}
+
+span{
+  font-size: 20px;
+}
+
+.tip {
+  color: yellow;
+}
+
+.wordContainer {
+  margin: 1.5em;
+  padding: 1.5em;
+  border: 20px solid yellow;
+  display: flex;
+
+}
+
+.letter, 
+.blankSquare {
+  font-size: 70px;
+  line-height: 1.5;
+  border: 3px solid black;
+  height: 100px;
+  width: 100px;
+  text-transform: uppercase;
+  background-color: white;
+  color: black;
+}
+
+p{
+  margin-bottom: 1.2rem;
+  font-size: 20px;
+}
+
+input{
+  height: 50px;
+  width: 50px;
+  font-size: 4rem;
+  text-align: center;
+  margin-right: 1rem;
+  text-transform: uppercase;
+}
+
+form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input{
+  padding: 15px 65px;
+}
+
+button {
+    background-color:  rgb(238, 208, 73);
+    margin-top: 1rem;
+    padding: 15px 25px;
+    font-size: 1.3rem;
+    border: 2px solid white;
+    color: white;
+    border-radius: 15px;
+    transition: 0.50s;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+  button:hover{
+    background-color: rgb(199, 168, 33);
+  }

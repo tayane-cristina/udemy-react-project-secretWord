@@ -1,0 +1,33 @@
+.start {
+    padding: 5rem;
+    background-color: rgb(253, 252, 252);
+    margin-top: 3rem;
+    border-radius: 15px;
+    
+}
+
+.start h2 {
+    font-size: 3rem;
+}
+
+.start p {
+    font-size: 1.5rem;
+}
+
+button {
+    background-color: rgb(238, 208, 73);
+    padding: 15px 45px;
+    font-size: 1.5rem;
+    border: 2px solid white;
+    color: white;
+    border-radius: 15px;
+    transition: 0.50s;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+  button:hover{
+    background-color:  rgb(199, 168, 33);
+  }
+
